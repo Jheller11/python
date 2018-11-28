@@ -12,5 +12,6 @@ Learning python repo.
 4. (ex4.py) => variables and names
 5. (ex5.py) => more variables and printing (format string)
 6. (ex6.py) => strings and text
+7. (ex9.py) => printing multiple lines/escape characters
 
 ## Resources
