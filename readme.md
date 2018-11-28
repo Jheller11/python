@@ -13,5 +13,7 @@ Learning python repo.
 5. (ex5.py) => more variables and printing (format string)
 6. (ex6.py) => strings and text
 7. (ex9.py) => printing multiple lines/escape characters
+8. (ex11.py) => input()
+9. (ex12.py) => store input() in variable one line
 
 ## Resources
