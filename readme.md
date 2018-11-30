@@ -18,5 +18,7 @@ Learning python repo.
 10. (ex13.py) => parameters, unpacking, importing modules
 11. (ex14.py) => inputs and variables with unpacking
 12. (ex15.py) => reading files
+13. (ex16.py) => writing to a file
+14. (ex17.py) => copy from one file to another
 
 ## Resources
