@@ -16,5 +16,7 @@ Learning python repo.
 8. (ex11.py) => input()
 9. (ex12.py) => store input() in variable one line
 10. (ex13.py) => parameters, unpacking, importing modules
+11. (ex14.py) => inputs and variables with unpacking
+12. (ex15.py) => reading files
 
 ## Resources
