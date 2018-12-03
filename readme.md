@@ -22,6 +22,8 @@ Learning python repo.
 14. (ex17.py) => copy from one file to another
 15. (ex18.py) => functions
 16. (ex20.py) => functions and files
+17. (ex21.py) => math functions, return values
+18. (ex23.py) => strings, bytes, char. encoding
 
 ## Resources
 
