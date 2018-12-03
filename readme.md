@@ -20,5 +20,11 @@ Learning python repo.
 12. (ex15.py) => reading files
 13. (ex16.py) => writing to a file
 14. (ex17.py) => copy from one file to another
+15. (ex18.py) => functions
+16. (ex20.py) => functions and files
 
 ## Resources
+
+1. Virtual Env. (article): https://realpython.com/python-virtual-environments-a-primer/
+2. pipenv (documentation): https://github.com/pypa/pipenv
+3. Build an application with flask(video series): https://www.youtube.com/watch?v=zRwy8gtgJ1A
