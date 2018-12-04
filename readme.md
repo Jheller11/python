@@ -4,7 +4,7 @@ Learning python repo.
 
 ## Contents
 
-### Learn Python3 the Hard Way
+### Learn Python3 the Hard Way (python_book)
 
 1. (ex1.py) => printing to terminal
 2. (ex2.py) => commenting code
@@ -24,6 +24,9 @@ Learning python repo.
 16. (ex20.py) => functions and files
 17. (ex21.py) => math functions, return values
 18. (ex23.py) => strings, bytes, char. encoding
+19. (ex24.py) => practice
+
+### Other (code_samples)
 
 ## Resources
 
