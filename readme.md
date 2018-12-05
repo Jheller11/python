@@ -25,8 +25,13 @@ Learning python repo.
 17. (ex21.py) => math functions, return values
 18. (ex23.py) => strings, bytes, char. encoding
 19. (ex24.py) => practice
+20. (ex25.py) => more practice
+21. (ex30.py) => if/elif/else
 
 ### Other (code_samples)
+
+1. tips & tricks
+2. truth tables
 
 ## Resources
 
