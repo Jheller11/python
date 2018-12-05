@@ -1,0 +1,40 @@
+# truth/false values in python
+
+
+print("NOT:")
+print("-----------------")
+print("not False:\t True")
+print("not True:\t False")
+print("-----------------")
+
+print("OR:")
+print("-----------------")
+print("True or False:\t True")
+print("True or True:\t True")
+print("False or True:\t True")
+print("False or False:\t False")
+print("-----------------")
+
+print("AND:")
+print("-----------------")
+print("True and False:\t False")
+print("True and True:\t True")
+print("False and True:\t False")
+print("False and False:\t False")
+print("-----------------")
+
+print("NOT OR:")
+print("-----------------")
+print("not(True or False):\t False")
+print("not(True or True):\t False")
+print("not(False or True):\t False")
+print("not(False or False):\t True")
+print("-----------------")
+
+print("NOT AND:")
+print("-----------------")
+print("not (True and False):\t True")
+print("not (True and True):\t False")
+print("not (False and True):\t True")
+print("not (False and False):\t True")
+print("-----------------")
