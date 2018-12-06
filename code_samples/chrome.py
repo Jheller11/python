@@ -11,8 +11,7 @@ job_search_array = ["https://mail.google.com/mail/u/0/",
                     "https://www.monster.com/jobs/advanced-search/",
                     "https://www.builtinnyc.com/"]
 
-soccer_array = []
-
+print("Running {} script: ".format(script))
 # use command to determine what to open
 if command == "jobs":
     print("opening job search tabs...")
@@ -24,3 +23,5 @@ elif command == "mail":
 else:
     print("command not found, opening chrome...")
     webbrowser.open("https://www.google.com/", 2)
+
+print("finished.")
