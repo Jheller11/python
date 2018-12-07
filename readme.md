@@ -27,6 +27,9 @@ Learning python repo.
 19. (ex24.py) => practice
 20. (ex25.py) => more practice
 21. (ex30.py) => if/elif/else
+22. (ex31.py) => making decisions
+23. (ex32.py) => for loops
+24. (ex33.py) => while loops
 
 ### Other (code_samples)
 
