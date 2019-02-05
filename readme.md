@@ -35,6 +35,10 @@ Learning python repo.
 
 1. tips & tricks
 2. truth tables
+3. chrome.py => script for opening chrome with specific tabs by keyword
+4. class.py => an example of python classes with **init** method
+5. camry-scraper.py => scrape toyota camry prices from ebay autos
+6. flask tutorial => from http://flask.pocoo.org/docs/1.0/tutorial/#tutorial, code:
 
 ## Resources
 
